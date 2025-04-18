@@ -5,16 +5,13 @@ Here are some common commands for managing a Python project:
 ---
 
 ### 🌱 Create a virtual environment:
-```bash
 python -m venv .venv
-```
 
 ---
 
 ### 🚀 Activate the virtual environment (Windows):
-```bash
 .venv\Scripts\activate 
-```
+
 
 ### 🌐 Activate the virtual environment (Linux/Mac):
 ```bash
